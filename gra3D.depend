@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1541335281 source:c:\users\user\desktop\gra3d\gra3d\gra2dd\obejcts.cpp
+	<SFML/Graphics.hpp>
+	<vector>
+	<cmath>
+	<vector>
+
+1541335289 source:c:\users\user\desktop\gra3d\gra3d\gra2dd\main.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	<cmath>
+	<vector>
+	"obejcts.cpp"
+
+1541336377 c:\users\user\desktop\gra3d\gra3d\gra2dd\obejcts.cpp
+	<SFML/Graphics.hpp>
+	<vector>
+	<cmath>
+	<vector>
+
